@@ -19,10 +19,10 @@ const About = () => {
               A Sanctuary for the Soul
             </h1>
             <div className="leading-relaxed">
-              Embrace tranquility and spiritual renewal at Dunagiri Retreat,
-              nestled in Uttarakhand's Dunagiri Mountains. Since 2005, this
-              eco-spiritual haven offers more than just yoga; it's a path to
-              self-discovery. Near Mahavatar Babaji's Cave and the revered
+            Embrace tranquility and spiritual renewal at Dunagiri Retreat,
+              nestled in Uttarakhand&apos;s Dunagiri Mountains. Since 2005, this
+              eco-spiritual haven offers more than just yoga; it&apos;s a path to
+              self-discovery. Near Mahavatar Babaji&apos;s Cave and the revered
               Dunagiri Temple, immerse in the transformative Kriya Yoga
               teachings. Our eco-friendly retreat, surrounded by the Himalayas,
               provides serene meditation spaces and a deep nature connection.

@@ -46,14 +46,14 @@ const Path = () => {
             </h2>
             <p className="leading-relaxed text-base">
               Self-Guided Explorations at our retreat provide a uniquely
-              flexible and personal experience for each guest. Whether you're
-              seeking to celebrate life's joys, process grief, delve into life's
-              big questions, or navigate life transitions, our program is
-              designed to support you at your own pace. In this self-directed
-              journey, you are invited to honor your individual needs and
-              rhythms, finding solace in the act of self-care and personal
-              growth. The period you spend with us is an opportunity to tune into
-              your desires.
+              flexible and personal experience for each guest. Whether
+              you&apos;re seeking to celebrate life&apos;s joys, process grief,
+              delve into life&apos;s big questions, or navigate life
+              transitions, our program is designed to support you at your own
+              pace. In this self-directed journey, you are invited to honor your
+              individual needs and rhythms, finding solace in the act of
+              self-care and personal growth. The period you spend with us is an
+              opportunity to tune into your desires.
             </p>
             <button className="flex mx-auto mt-6 text-white bg-[#324D2E] border-0 py-2 px-5 focus:outline-none hover:bg-[#5C8D54] rounded">
               Self Guided
