@@ -2,4 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+.text-shadow {
+  text-shadow: 2px 2px 0 #55864e; /* The shadow is positioned 4 pixels to the right and 4 pixels down */
+}
 

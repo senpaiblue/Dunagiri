@@ -14,7 +14,7 @@ const Navbar = () => {
   return (
     <nav className="flex items-center justify-between px-8 py-2 shadow-sm h-48px lg:px-16">
       <Link href={'/'} className="flex items-center justify-center">
-        <Image src={Logo} alt="Void" width={100} height={100} />
+        <Image src={Logo} alt="Dunagiri" width={100} height={100} />
       </Link>
 
       {/* Hamburger menu for small screens */}
@@ -48,7 +48,7 @@ const Navbar = () => {
         <Link onClick={() => setMobileMenuOpen(false)} href={"/"} className='montserrat w-full text-lg font-medium text-center text-[#324D2E] md:hover:text-[#E4DFD2]'>Accomodation</Link>
         <Link onClick={() => setMobileMenuOpen(false)} href={"/"} className='montserrat w-full text-lg font-medium text-center text-[#324D2E] md:hover:text-[#E4DFD2]'>Retreats</Link>
         <Link onClick={() => setMobileMenuOpen(false)} href={"/"} className=' montserrat w-full text-lg font-medium text-center text-[#324D2E] md:hover:text-[#E4DFD2] '>Blog</Link>
-        <Link onClick={() => setMobileMenuOpen(false)} href={"/"} className="px-8 py-2 font-medium montserrat text-white text-center rounded-sm bg-[#324D2E] text-md whitespace-nowrap hover:bg-[#E4DFD2] hover:text-[#324D2E]">
+        <Link onClick={() => setMobileMenuOpen(false)} href={"/"} className="px-8 py-2 font-medium montserrat text-white text-center rounded-md bg-[#324D2E] text-md whitespace-nowrap hover:bg-[#5C8D54]">
           Contact Us
         </Link>
 

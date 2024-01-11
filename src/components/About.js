@@ -1,0 +1,52 @@
+import Image from "next/image";
+import React from "react";
+import about from "../../public/assets/About.svg";
+
+const About = () => {
+  return (
+    <section class="text-gray-600 body-font">
+      <div class="container px-5 lg:px-16 py-24 mx-auto lg:items-center lg:w-full lg:justify-between flex flex-wrap">
+      <div class="lg:w-[40%] sm:w-1/3 w-full rounded-lg overflow-hidden mb-6 sm:mt-0">
+          <Image
+            class="object-cover object-center w-full h-full"
+            src={about}
+            alt="about"
+          />
+        </div>
+        <div class="flex flex-wrap -mx-4 mt-auto mb-auto lg:w-1/2 sm:w-2/3 content-start sm:pr-10">
+          <div class="w-full sm:p-4 px-4 mb-6">
+            <h1 class="title-font font-bold text-3xl mb-2 text-[#324D2E]">
+              A Sanctuary for the Soul
+            </h1>
+            <div class="leading-relaxed">
+              Embrace tranquility and spiritual renewal at Dunagiri Retreat,
+              nestled in Uttarakhand's Dunagiri Mountains. Since 2005, this
+              eco-spiritual haven offers more than just yoga; it's a path to
+              self-discovery. Near Mahavatar Babaji's Cave and the revered
+              Dunagiri Temple, immerse in the transformative Kriya Yoga
+              teachings. Our eco-friendly retreat, surrounded by the Himalayas,
+              provides serene meditation spaces and a deep nature connection.
+              Join us for a profound journey towards inner peace and
+              self-realization.
+            </div>
+          </div>
+          <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
+            <h2 class="title-font font-semibold text-4xl text-[#324D2E] text-shadow">30%</h2>
+            <p class="leading-relaxed">Anxiety reduced </p>
+          </div>
+          <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
+            <h2 class="title-font font-semibold text-4xl text-[#324D2E] text-shadow">26%</h2>
+            <p class="leading-relaxed">Sleep quality improved</p>
+          </div>
+          <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
+            <h2 class="title-font font-semibold text-4xl text-[#324D2E] text-shadow">16%</h2>
+            <p class="leading-relaxed">Self-compassion rose</p>
+          </div>
+        </div>
+        
+      </div>
+    </section>
+  );
+};
+
+export default About;

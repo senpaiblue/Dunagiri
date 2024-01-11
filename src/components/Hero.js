@@ -18,10 +18,10 @@ const Hero = () => {
             self-discovery and enlightenment.
           </p>
           <div className="flex justify-center">
-            <button className="items-center text-white bg-[#324D2E] border-0 py-2 px-6 focus:outline-none hover:bg-[#E4DFD2] hover:text-[#324D2E] rounded text-sm">
+            <button className="items-center text-white bg-[#324D2E] border-0 py-2 px-6 focus:outline-none hover:bg-[#5C8D54] rounded text-sm">
               Get Started
             </button>
-            <button className="ml-4 inline-flex text-gray-700 border-2 border-[#324D2E]  py-2 px-6  hover:bg-[#324D2E] hover:text-white  rounded text-sm">
+            <button className="ml-4 inline-flex text-gray-700 border-2 border-[#324D2E]  py-2 px-6  hover:bg-[#5C8D54] hover:text-white rounded text-sm">
               Learn More
             </button>
           </div>
