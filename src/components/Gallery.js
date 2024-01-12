@@ -17,10 +17,10 @@ const Gallery = () => {
           </h1>
           <p className="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">
             The cave, shrouded in divine lore, is a destination for seekers of
-            truth and enlightenment from around the world.It's said that within
-            the cave's silent embrace, the veil between the physical and the
-            ethereal grows thin, allowing for deep meditation and communion with
-            the divine.
+            truth and enlightenment from around the world. It&apos;s said that
+            within the cave&apos;s silent embrace, the veil between the physical
+            and the ethereal grows thin, allowing for deep meditation and
+            communion with the divine.
           </p>
         </div>
         <div className="flex flex-wrap md:-m-2 -m-1">
