@@ -11,7 +11,7 @@ const Cta = () => {
         alt="Yoga"
         className="sm:mb-6 mb-6 items-center"/>
         <div class="lg:w-2/3 flex flex-col sm:flex-col items-center sm:items-center lg:items-start mx-auto">
-          <h1 class="flex-grow sm:pb-4 text-2xl font-semibold title-font text-[#324D2E]">
+          <h1 class="flex-grow sm:pb-4 text-2xl font-bold title-font text-[#324D2E]">
             Retreat For Your Soul
           </h1>
           <h1 class="flex-grow sm:pb-4 text-lg font-normal text-center text-gray-900">
