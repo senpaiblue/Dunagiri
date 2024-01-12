@@ -10,6 +10,7 @@ const Footer = () => {
           <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
             <Image 
             src={logo}
+            alt="logo"
             />
           </a>
           <p className="mt-2 text-sm text-gray-500">
@@ -45,7 +46,7 @@ const Footer = () => {
                 <a className="text-gray-600 hover:text-gray-800">Village Chari, Near Mahavatar</a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800">Babaji's Cave, PO Dunagiri,</a>
+                <a className="text-gray-600 hover:text-gray-800">Babaji&apos;s Cave, PO Dunagiri,</a>
               </li>
               <li>
                 <a className="text-gray-600 hover:text-gray-800">Block Dwarahat, District</a>
