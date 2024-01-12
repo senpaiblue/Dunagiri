@@ -27,21 +27,21 @@ const Gallery = () => {
           <div className="flex flex-wrap w-1/2">
             <div className="md:p-2 p-1 w-1/2">
               <Image
-                alt="gallery"
+                alt="gallery1"
                 className="w-full object-cover h-full object-center block"
                 src={s1}
               />
             </div>
             <div className="md:p-2 p-1 w-1/2">
               <Image
-                alt="gallery"
+                alt="gallery2"
                 className="w-full object-cover h-full object-center block"
                 src={s2}
               />
             </div>
             <div className="md:p-2 p-1 w-full">
               <Image
-                alt="gallery"
+                alt="gallery3"
                 className="w-full h-full object-cover object-center block"
                 src={b1}
               />
@@ -50,21 +50,21 @@ const Gallery = () => {
           <div className="flex flex-wrap w-1/2">
             <div className="md:p-2 p-1 w-full">
               <Image
-                alt="gallery"
+                alt="gallery4"
                 className="w-full h-full object-cover object-center block"
                 src={b2}
               />
             </div>
             <div className="md:p-2 p-1 w-1/2">
               <Image
-                alt="gallery"
+                alt="gallery5"
                 className="w-full object-cover h-full object-center block"
                 src={s3}
               />
             </div>
             <div className="md:p-2 p-1 w-1/2">
               <Image
-                alt="gallery"
+                alt="gallery6"
                 className="w-full object-cover h-full object-center block"
                 src={s4}
               />

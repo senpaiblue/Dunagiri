@@ -58,9 +58,8 @@ const Testimonials = () => {
                 className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
                 src={t3}
               />
-              <p className="leading-relaxed">
-                They say when the gods want to meet they do so in the Himalayas.
-                And I've experienced that in Dunagiri retreat. The place I fell in love with.
+              <p className="leading-relaxed"> They say when the gods want to meet they do so in the Himalayas.
+  And I&apos;ve experienced that in Dunagiri retreat. The place I fell in love with.
               </p>
               <span className="inline-block h-1 w-10 rounded bg-[#5C8D54] mt-6 mb-4"></span>
               <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">
