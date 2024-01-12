@@ -13,7 +13,7 @@ const Gallery = () => {
       <div className="container px-5 lg:px-16 py-24 mx-auto flex flex-wrap">
         <div className="flex w-full mb-20 flex-wrap">
           <h1 className="sm:text-3xl text-2xl font-bold title-font text-[#324D2E] lg:w-1/3 lg:mb-0 mb-4">
-            Mahavatar Babaji's Cave{" "}
+            Mahavatar Babaji's Cave
           </h1>
           <p className="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">
             The cave, shrouded in divine lore, is a destination for seekers of

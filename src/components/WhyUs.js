@@ -11,9 +11,10 @@ const WhyUs = () => {
       <div className="flex flex-wrap">
         <div className="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
           <h2 className="text-lg sm:text-xl text-[#324D2E] font-medium title-font mb-2">Elevated Living</h2>
-          <p className="leading-relaxed text-base mb-4">A "playground of well-being" nestled in the heart of the Himalayas, Dunagiri Retreat is devoted entirely to wellbeing. The campus offers a vast array of accommodations, yoga halls, meditation rooms, and experiences, such as hikes, yoga, sound healing, wilderness exploration, and more. 
-
+          <p className="leading-relaxed text-base mb-4">
+  A &quot;playground of well-being&quot; nestled in the heart of the Himalayas, Dunagiri Retreat is devoted entirely to wellbeing. The campus offers a vast array of accommodations, yoga halls, meditation rooms, and experiences, such as hikes, yoga, sound healing, wilderness exploration, and more.
 </p>
+
           <a className="text-[#5C8D54] inline-flex items-center">Learn More
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
